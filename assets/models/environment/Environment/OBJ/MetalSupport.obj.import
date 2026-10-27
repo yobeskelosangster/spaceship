@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cuusy5kt4bsf6"
+path="res://.godot/imported/MetalSupport.obj-54a0f4e0f68c8b93ec99527dda4a7eba.mesh"
+
+[deps]
+
+files=["res://.godot/imported/MetalSupport.obj-54a0f4e0f68c8b93ec99527dda4a7eba.mesh"]
+
+source_file="res://assets/models/environment/Environment/OBJ/MetalSupport.obj"
+dest_files=["res://.godot/imported/MetalSupport.obj-54a0f4e0f68c8b93ec99527dda4a7eba.mesh", "res://.godot/imported/MetalSupport.obj-54a0f4e0f68c8b93ec99527dda4a7eba.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false
